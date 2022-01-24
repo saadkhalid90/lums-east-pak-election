@@ -1,0 +1,3 @@
+.actual_circle_g circle {
+  transition: r 750ms, fill 750ms; 
+}

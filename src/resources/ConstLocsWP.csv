@@ -1,0 +1,139 @@
+﻿Constituency,Name,Lat,Lon,Status
+NW 1,Peshawar 1,34.13,71.37,Done
+NW 2,Peshawar 2,33.94,71.51,Done
+NW 3,Peshawar 3,34.1,71.61,Done
+NW 4,Peshawar 4,34.28,71.63,Done
+NW 5,Hazara 1,34.331,73.198,Done
+NW 6,Hazara 2,34.169,73.222,Done
+NW 7,Hazara 3,34.75,73.31,Done
+NW 8,Hazara 4,35.06,73.51,Done
+NW 9,Mardan 1,34.49,71.88,Done
+NW 10,Mardan 2,34.42,72.25,Done
+NW 11,Mardan-cum-Hazara,34.34,72.7,Done
+NW 12,Kohat,33.589,71.443,Done
+NW 13,Dera Ismail Khan,31.863,70.902,Done
+NW 14,Bannu,32.991,70.646,Done
+NW 15,Chitral-cum-Dir-cum-Swat,35.7699,71.7741,Done
+NW 16,Swat 1,35.2227,72.4258,Done
+NW 17,Swat 2,34.75,72.16,Done
+NW 18,Dir,35.1977,71.8749,Done
+NW 19,Tribal Area 1,34.535,71.287,Done
+NW 20,Tribal Area 3,33.94,71.05,Done
+NW 21,Tribal Area 2,33.696,70.336,Done
+NW 22,Tribal Area 4,32.943,69.955,Done
+NW 23,Tribal Area 5,32.32,69.86,Done
+NW 24,Tribal Area 6,33.808,71.736,Done
+NW 25,Tribal Area 7,34.787,71.525,Done
+NW 26,Rawalpindi 1,33.694,73.485,Done
+NW 27,Rawalpindi 2,33.253,73.27,Done
+NW 28,Rawalpindi 3,33.547,73.044,Done
+NW 29,Rawalpindi 4,33.371,72.956,Done
+NW 30,Campbellpur 1,33.557,72.368,Done
+NW 31,Campbellpur 2,33.116,72.181,Done
+NW 32,Jhelum 1,32.88,72.38,Done
+NW 33,Jhelum 2,32.89,72.87,Done
+NW 34,Jhelum 3,32.84,73.4,Done
+NW 35,Gujrat 1,32.79,73.84,Done
+NW 36,Gujrat 2,32.73,74.21,Done
+NW 37,Gujrat 3,32.62,73.95,Done
+NW 38,Gujrat 4,32.43,73.49,Done
+NW 39,Sargodha 1,32.07,72.69,Done
+NW 40,Sargodha 2,32.36,72.86,Done
+NW 41,Sargodha 3,32.09,73.1,Done
+NW 42,Sargodha 4,31.87,72.46,Done
+NW 43,Sargodha 5,32.17,72.05,Done
+NW 44,Mianwali 1,32.584,71.537,Done
+NW 45,Mianwali 2,31.7,71.33,Done
+NW 46,Jhang 1,31.64,72.82,Done
+NW 47,Jhang 2,31.28,72.33,Done
+NW 48,Jhang 3,30.93,72.03,Done
+NW 49,Lyallpur 1,31.62,73.19,Done
+NW 50,Lyallpur 2,31.465,73.129,Done
+NW 51,Lyallpur 3,31.413,73.156,Done
+NW 52,Lyallpur 4,31.3,73.46,Done
+NW 53,Lyallpur 5,31.15,73.27,Done
+NW 54,Lyallpur 6,30.99,73.07,Done
+NW 55,Lyallpur 7,31.12,72.65,Done
+NW 56,Lyallpur 8,30.75,72.79,Done
+NW 57,Lyallpur 9,30.76,72.49,Done
+NW 58,Lahore 1,31.564,74.353,Done
+NW 59,Lahore 2,31.513,74.321,Done
+NW 60,Lahore 3,31.527,74.401,Done
+NW 61,Lahore 4,31.474,74.386,Done
+NW 62,Lahore 5,31.36,74.18,Done
+NW 63,Lahore 6,31.47,74.55,Done
+NW 64,Lahore 7,31.02,74.41,Done
+NW 65,Lahore 8,31.06,74.02,Done
+NW 66,Sheikhupura 1,31.81,74.39,Done
+NW 67,Sheikhupura 2,31.72,73.99,Done
+NW 68,Sheikhupura 3,31.4,73.88,Done
+NW 69,Sheikhupura 4,31.68,73.57,Done
+NW 70,Gujranwala 1,32.32,74.01,Done
+NW 71,Gujranwala 2,32.13,74.09,Done
+NW 72,Gujranwala 3,32.01,74.28,Done
+NW 73,Gujranwala 4,31.96,73.5,Done
+NW 74,Sialkot 1,32.59,74.54,Done
+NW 75,Sialkot 2,32.43,74.37,Done
+NW 76,Sialkot 3,32.22,74.56,Done
+NW 77,Sialkot 4,32.36,74.76,Done
+NW 78,Sialkot 5,32.18,74.97,Done
+NW 79,Multan 1,30.04,72.71,Done
+NW 80,Multan 2,30.24,72.05,Done
+NW 81,Multan 3,30.5,71.92,Done
+NW 82,Multan 4,30.16,71.52,Done
+NW 83,Multan 5,29.94,71.4,Done
+NW 84,Multan 6,29.81,71.34,Done
+NW 85,Multan 7,29.72,71.79,Done
+NW 86,Multan 8,29.53,71.54,Done
+NW 87,Multan 9,29.63,71.3,Done
+NW 88,Dera Ghazi Khan 1,30.43,70.59,Done
+NW 89,Dera Ghazi Khan 2,28.99,70.08,Done
+NW 90,Muzaffargarh 1,30.98,71.22,Done
+NW 91,Muzaffargarh 2,30.26,71.14,Done
+NW 92,Muzaffargarh 3,29.55,70.85,Done
+NW 93,Sahiwal 1,30.84,73.58,Done
+NW 94,Sahiwal 2,30.54,73.83,Done
+NW 95,Sahiwal 3,30.33,73.4,Done
+NW 96,Sahiwal 4,30.67,73.11,Done
+NW 97,Sahiwal 5,30.52,72.9,Done
+NW 98,Sahiwal 6,30.39,72.56,Done
+NW 99,Sahiwal 7,30.16,73.13,Done
+NW 100,Bahawalpur 1,29.25,71.55,Done
+NW 101,Bahawalpur 2,29.53,72.27,Done
+NW 102,Bahawalnagar-cum-Bahawalpur,28.39,71.66,Done
+NW 103,Bahawalnagar 1,29.33,72.94,Done
+NW 104,Bahawalnagar 2,30,73.24,Done
+NW 105,Rahimyar Khan 1,28.73,70.69,Done
+NW 106,Rahimyar Khan 2,28.17,70.76,Done
+NW 107,Rahimyar Khan 3,28.42,70.3,Done
+NW 108,Jacobabad,28.22,68.97,Done
+NW 109,Sukkur 1,27.91,68.68,Done
+NW 110,Sukkur 2,27.56,69.15,Done
+NW 111,Sukkur 3,27.61,69.58,Done
+NW 112,Nawabshah 1,26.83,68.17,Done
+NW 113,Nawabshah 2,26.33,68.3,Done
+NW 114,Khairpur 1,27.53,68.76,Done
+NW 115,Khairpur 2,26.47,69.34,Done
+NW 116,Larkana 1,27.56,68.203,Done
+NW 117,Larkana 2,27.73,67.75,Done
+NW 118,Hyderabad 1,25.07,68.66,Done
+NW 119,Hyderabad 2,25.31,68.96,Done
+NW 120,Hyderabad 3,24.67,68.71,Done
+NW 121,Hyderabad 4,24.7,69.24,Done
+NW 122,Tharparkar 1,25.38,69.57,Done
+NW 123,Tharparkar 2,24.84,70.27,Done
+NW 124,Dadu 1,26.97,67.43,Done
+NW 125,Dadu 2,25.84,67.81,Done
+NW 126,Sanghar,25.85,69.7,Done
+NW 127,Thatta,24.44,67.87,Done
+NW 128,Karachi 1,24.866,66.938,Done
+NW 129,Karachi 2,24.811,67.651,Done
+NW 130,Karachi 3,24.877,66.988,Done
+NW 131,Karachi 4,24.883,66.963,Done
+NW 132,Karachi 5,24.895,66.985,Done
+NW 133,Karachi 6,24.889,67.016,Done
+NW 134,Karachi 7,25.024,67.01,Done
+NW 135,Quetta 1,30.56,66.87,Done
+NW 136,Quetta 2,30.09,68.62,Done
+NW 137,Kalat 1,28.86,67.3,Done
+NW 138,Kalat 2,27.13,64.59,Done
