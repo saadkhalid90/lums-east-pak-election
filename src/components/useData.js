@@ -1,7 +1,7 @@
 import * as d3 from 'd3';
 import {json} from 'd3';
 import {useState, useEffect} from 'react';
-import constLocs from './resources/constLocs.csv';
+import constLocs from '../resources/constLocs.csv';
 import {projectionEP, projectionWP} from './projections.js'
 
 // a custom state that makes use of useState and useEffect and returns the value of the state

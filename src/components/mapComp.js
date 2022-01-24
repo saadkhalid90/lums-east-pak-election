@@ -35,12 +35,14 @@ export default function MapComp({
                 <circle
                   key={`circleIndex${constit.SeatID}`}
                   id={`index${constit.SeatID}`}
-                  r={(scene === "scene1") ? 4 : constit.radius}
+                  r={(scene === "scene1") | (constit[[scene]] == "")  ? 4 : constit.radius}
                   cx={constit.x}
                   cy= {constit.y}
                   style={{
+                    stroke: '#9E9E9E',
+                    strokeWidth: (scene === "scene1") ? '1px' : '0px',
                     fill: colScale(constit[[scene]]),
-                    'fillOpacity': '1'}}/>)
+                    fillOpacity: '1'}}/>)
                   })
           }
         </g>

@@ -1,5 +1,5 @@
 import './App.css';
-import ElectMap from './map.js';
+import ElectMap from './components/map.js';
 
 function App() {
   return (

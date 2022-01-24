@@ -13,7 +13,7 @@ const colorList = [
   "#81C784",
   "#039BE5",
   "#EEEEEE",
-  "#757575"
+  "#EEEEEE"
 ];
 
 const partyList = [
